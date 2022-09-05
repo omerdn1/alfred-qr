@@ -5,7 +5,7 @@ Alfred workflow for scanning and decoding QR codes by taking a snapshot, Built i
 
 ## Commands
 
-* `qr`: promts you to take a screenshot of a QR Code. Once the QR has been decoded, a notification will show, and the result will be saved to the clipboard
+* `qr`: prompts you to take a screenshot of a QR Code. Once the QR has been decoded, a notification will show, and the result will be saved to the clipboard.
 
 ## [Download .alfredworkflow](https://github.com/omerdn1/alfred-qr/releases/) 
 
